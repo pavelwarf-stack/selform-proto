@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://winds-wishes-otherwise-extra.trycloudflare.com
